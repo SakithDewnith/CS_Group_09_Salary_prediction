@@ -1,5 +1,5 @@
 # Employee Salary Prediction & Analysis
 
-## Executive Summary
+## Executive Summaries
 
 In many organizations, employee salaries vary based on factors such as professional experience, education level, and job role. This project aims to develop regression-based machine learning models to predict employee salaries using these characteristics. The analysis explores salary patterns and compares model performance to identify suitable approaches for salary estimation. The findings may support HR departments in compensation planning and data-informed decision-making.
