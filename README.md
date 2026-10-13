@@ -1,4 +1,4 @@
-# Employee Salary Prediction & Analysis
+# Employee Salary Analysis & Prediction 
 
 ## Executive Summary
 
