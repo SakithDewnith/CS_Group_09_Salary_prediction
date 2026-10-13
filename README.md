@@ -57,7 +57,7 @@ I independently developed and evaluated a Linear Regression pipeline using the e
 
 ## Results & Key Insights
 
-* **Data Quality:**  The original dataset contained 6,704 rows, including 4,912 duplicates, 6 rows with missing values and 4 salaries below 1,000. After removing these and standardizing inconsistent education labels, 1,782 records remained for analysis.
+* **Data Quality:**  Examined 6,704 original records and identified 4,912 duplicate rows, 6 rows containing missing values, 4 salary values below 1,000, and inconsistent education-level labels. After preprocessing, 1,782 records remained for analysis.
 
 * **Key Salary Relationships:** Years of Experience (\(r = 0.82\)) and Age (\(r = 0.77\)) showed strong positive correlations with Salary. Age and Experience were also highly correlated (\(r = 0.94\)). This suggests that employees with more experience and older employees generally tended to earn higher salaries in this dataset, while the overlap between Age and Experience makes their individual effects harder to distinguish.
 
